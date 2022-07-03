@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I'm skilled **Gamer** like **_BGMI_**
+- Currently I'm still learning new programming languages
+- **C** , **C++** , **HTML** , **PYTHON**
